@@ -1,0 +1,42 @@
+_repo: Peter-und-Lutz-Eine-Erzahlung-mit-sechzehn-Holzschnitten-von-Frans-Masereel_47713
+alternative_title: Pierre et Luce. German
+contributor:
+  illustrator:
+    agent_name: Masereel, Frans
+    birthdate: 1889
+    deathdate: 1972
+    gutenberg_agent_id: '44332'
+    url: http://www.gutenberg.org/2009/agents/44332
+  translator:
+    agent_name: Amann, Paul
+    birthdate: 1884
+    deathdate: 1958
+    gutenberg_agent_id: '44441'
+    url: http://www.gutenberg.org/2009/agents/44441
+creator:
+  author:
+    agent_name: Rolland, Romain
+    alias: Rollan, R.
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '2602'
+    url: http://www.gutenberg.org/2009/agents/2602
+    wikipedia: http://en.wikipedia.org/wiki/Romain_Rolland
+description: ''
+gutenberg_issued: '2014-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47713'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- France -- Fiction'
+- !lcsh 'Paris (France) -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: 'Peter und Lutz
+
+  Eine Erzählung mit sechzehn Holzschnitten von Frans Masereel'
+url: http://www.gutenberg.org/ebooks/47713
